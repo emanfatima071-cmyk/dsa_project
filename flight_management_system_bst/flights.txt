@@ -1,0 +1,3 @@
+1,pakistan,china,emirates,23:34,21:23,21:49/21.8167,50000,Scheduled
+2,malaysia,turkiye,thaiairways,20:34,12:34,16:00/16,40000,Scheduled
+3,thailand,baku,saudiairlines,21:45,12:32,14:47/14.7833,490000,Scheduled
